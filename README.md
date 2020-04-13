@@ -1,3 +1,3 @@
 # pretzel
 
-![Image description](.\pretzel.png)
+![pretzel](pretzel.png)
